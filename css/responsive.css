@@ -1,0 +1,957 @@
+@media screen and (max-width: 1699px) {
+
+}
+@media screen and (max-width: 1679px) {}
+@media screen and (max-width: 1599px) {
+    .client-section .client-row {
+        gap: 25px;
+    }
+}
+@media screen and (max-width: 1549px) {
+    .about-section .about-main-inner .about-main-text {
+        padding: 50px 0;
+    }
+    .about-section .about-main-text .about-main-text-inner .about-text-disc p {
+        line-height: 20px;
+    }
+}
+@media screen and (max-width: 1499px) {
+    .build-section .build-block {
+        padding: 50px;
+    }
+    .banner-section .banner-content .banner-heading {
+        font-size: 26px;
+        margin-bottom: 14px;
+    }
+    .banner-section .banner-content .banner-sub-heading {
+        font-size: 16px;
+        margin-bottom: 22px;
+    }
+    .banner-section .banner-bottam-partner-logo-inner{
+        row-gap: 20px;
+    }
+    .banner-section .banner-bottam-partner-logo {
+        margin-bottom: 32px;
+    }
+    .banner-section .banner-content .banner-reivew{
+        margin-bottom: 32px;
+        gap: 30px;
+    }
+    .banner-section .banner-content .heading {
+        font-size: 14px;
+    }
+    .banner-section .banner-content .reviews img {
+        width: 130px;
+    }
+    .service-section .card__container {
+        gap: 50px;
+    }
+    .service-section .card__bx {
+        height: 300px;
+    }
+    .testimonial-section .testimonial-heading {
+        margin-bottom: 10px;
+    }
+    .stars {
+        margin-bottom: 20px;
+    }
+    .testimonial-section .sub-heading {
+        margin-bottom: 20px;
+    }
+    .testimonial-text {
+        font-size: 20px;
+        margin-bottom: 25px;
+    }
+    .author {
+        font-size: 16px;
+    }
+    .testimonial-slider-main .slick-list {
+        padding-top: 30px;
+    }
+    .about-section .about-section .slick-slide .about-slider-img p {
+        font-size: 16px;
+    }
+    .about-section .slick-slide .about-slider-img p {
+        font-size: 18px;
+    }
+    .about-section .button--primary {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+    .bottam_cart_wapper_main_inner {
+        padding: 30px 20px;
+    }
+    .li_price {
+        font-size: 36px;
+    }
+    span.stike-li.small-li {
+        font-size: 1.15rem;
+    }
+    .li_offertext {
+        font-size: 1.15rem;
+    }
+    .li_time.register-on {
+        font-size: 1.15rem;
+    }
+    .gmwqp_inquirybtn_loop .button--primary {
+        padding: 15px 100px;
+    }
+    .last_waspper {
+        padding: 75px;
+    }
+    .about-section .about-third-img .about-slider-img svg {
+        height: 60px;
+        width: 60px;
+    }
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 20px;
+    }
+    .header-section{
+        margin-bottom: 50px;
+    }
+    .common-spacing{
+        margin-bottom: 50px;
+    }
+    .black_BG{
+        padding: 50px 0;
+    }
+    .heading{
+        margin-bottom: 5px;
+    }
+    .back-to-top {
+        bottom: 140px;
+    }
+}
+@media screen and (max-width: 1439px) {
+    .build-section .build-block p {
+        font-size: 17px;
+    }
+    .build-section .build-block h3 {
+        font-size: 31px;
+    }
+    .testimonial-text {
+        width: 85%;
+    }
+    .iso-section ul.about-list li p {
+        font-size: 16px;
+    }
+    .promotion-banner-section ul.about-list li p {
+        font-size: 16px;
+    }
+    .promotion-banner-section .service-inner-content-counter {
+        font-size: 26px;
+    }
+    .promotion-banner-section .service-inner-content p:last-child{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 1365px) {
+    .sub-heading {
+        font-size: 18px;
+    }
+    .heading {
+        font-size: 38px;
+    }
+    .web-design-section .service p {
+        font-size: 15px;
+    }
+    .web-design-section .service h3 {
+        font-size: 20px;
+    }
+    .web-design-section .service svg {
+        height: 140px;
+        width: 140px;
+    }
+    .price-box .price-offer-intro p {
+        font-size: 15px;
+    }
+    .price-box .price-disc {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .price-box .price-btn {
+        margin-top: 28px;
+    }
+    .build-section .build-block {
+        padding: 39px;
+    }
+    .chhose-section .choose-para p {
+        font-size: 18px;
+    }
+    .faq-section .faq-header {
+        padding: 8px;
+    }
+    .faq-section .faq-header p {
+        font-size: 18px;
+    }
+    .faq-section .faq-content{
+        padding: 8px;
+    }
+    .faq-section .faq-content p {
+        font-size: 14px;
+    }
+    .promotion-banner-section .service-inner-content-counter{
+        font-size: 18px;
+    }
+    .about-section .slick-slide .about-slider-img p{
+        font-size: 16px;
+    }
+    .client-section .client-icon img {
+        width: 120px;
+        height: 120px;
+    }
+    .service-section .service-heading,
+    .project-slider-section .project-slider-heading,
+    .web-design-section .web-desing-heading,
+    .client-section .client-heading,
+    .industry-section .industry-heading,
+    .price-heading,
+    .build-section .build-heading,
+    .white-lable-section .white-lable-heading,
+    .faq-section .faq-heading,
+    .about-section .about-heading{
+        margin-bottom: 30px;
+    }
+}
+@media screen and (max-width: 1279px) {
+    .header-section .email a, .header-section .number a {
+        font-size: 18px;
+    }
+    .promotion-banner-section .promotion-banner-content p {
+        font-size: 18px;
+    }
+    .promotion-banner-section .promotion-banner-content h2 {
+        font-size: 36px;
+    }
+    .iso-section .iso-banner-content p {
+        font-size: 18px;
+    }
+    .iso-section .iso-banner-content h2 {
+        font-size: 36px;
+    }
+    .heading {
+        font-size: 36px;
+    }
+    .industry-section .industry-block {
+        flex: 0 0 25%;
+        max-width: 25%;
+    }
+    .build-section .build-block {
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding: 44px;
+    }
+    .white-lable-section ul li {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .chhose-section .list-img-main .list-img {
+        width: 30px;
+        height: 30px;
+    }
+    .chhose-section .list-img-main {
+        padding: 15px;
+    }
+    .chhose-section .list-content .list-heading {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .chhose-section .list-content .list-para p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .chhose-section .choose-list {
+        row-gap: 20px;
+    }
+    .chhose-section .choose-content-top {
+        margin-bottom: 25px;
+    }
+    .chhose-section .choose-main {
+        gap: 32px;
+    }
+    .service-section .card__bx {
+        height: 250px;
+    }
+    .service-section .card__container {
+        gap: 40px;
+    }
+    .testimonial-text {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .testimonial-text::after {
+        width: 54px;
+        height: 48px;
+    }
+    .testimonial-inner {
+        gap: 20px;
+    }
+    .testimonial-slider-main .slick-list {
+        padding-top: 10px;
+    }
+    .iso-section ul.about-list li p {
+        font-size: 14px;
+    }
+    .promotion-banner-section ul.about-list li p {
+        font-size: 14px;
+    }
+    .faq-section .faq-main {
+        max-width: 70%;
+    }
+    .about-section .about-main-inner {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .about-section .about-main-inner .about-main-text {
+        width: 100%;
+    }
+    .about-section .about-main-image {
+        width: 100%;
+    }
+    .footer-section .email a, .header-section .number a {
+        font-size: 18px;
+    }
+    .footer-section .footer-content p {
+        font-size: 16px;
+        width: 80%;
+        margin-bottom: 20px;
+    }
+    .footer-section .contact-number {
+        margin-bottom: 10px;
+    }
+    .footer-section .footer-logo {
+        margin-bottom: 30px;
+    }
+    .footer-section .footer-form .form .row label {
+        font-size: 14px;
+    }
+    .footer-section .footer-form{
+        padding: 20px;
+    }
+    .price-section-inner {
+        gap: 0px;
+    }
+    .price-box-main {
+        width: calc(100% / 3);
+        padding: 0 6px;
+    }
+    .price-box .price-type {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+    .price-section-inner .price-box {
+        padding: 40px 15px 20px;
+    }
+    .price-box .price-count {
+        font-size: 30px;
+        margin-bottom: 15px;
+    }
+    .price-box .price-count span {
+        font-size: 18px;
+        padding-left: 15px;
+    }
+    .price-box .price-disc {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .price-box .price-offer-intro p {
+        font-size: 12px;
+        line-height: 16px;
+        padding-bottom: 10px;
+    }
+    .price-box .price-offer-intro p svg {
+        height: 15px;
+        width: 15px;
+        margin-right: 10px;
+    }
+    .price-box .button--primary {
+        padding: 8px 16px;
+        font-size: 12px;
+    }
+    .form {
+        max-width: 100%;
+    }
+    .bottam_cart_wapper_main_inner {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .project-slider-section .project-slider-main{
+        max-width: 100%;
+    }
+    .project-slider-section .slick-slide.slick-snext {
+        transform: translate3d(90%, 0, 0px);
+    }
+    .project-slider-section .slick-slide.slick-sprev {
+        transform: translate3d(-90%, 0, 0px);
+    }
+    .project-slider-section .slick-list {
+        padding-top: 4% !important;
+        padding-bottom: 4% !important;
+    }
+    .project-slider-section .slick-slide.slick-current {
+        transform: translate3d(0, 0, 10px);
+    }
+    .web-design-section .service-main {
+        padding: 10px;
+    }
+    .web-design-section .services {
+        margin: -10px;
+    }
+    .footer-section .footer-right .logo {
+        width: 25%;
+    }
+    .footer-section .footer-right .logo img {
+        height: 60px;
+    }
+}
+@media screen and (max-width: 1023px) {
+    .button--primary {
+        padding: 12px 21px;
+        font-size: 14px;
+    }
+    .banner-section .banner-content .banner-heading {
+        font-size: 20px;
+        margin-bottom: 14px;
+    }
+    .banner-section .banner-content .banner-sub-heading {
+        font-size: 14px;
+        margin-bottom: 16px;
+    }
+    .banner-section .banner-content .banner-reivew {
+        margin-bottom: 20px;
+    }
+    .banner-section .banner-content .heading {
+        font-size: 12px;
+    }
+    .banner-section .banner-content .reviews span{
+        font-size: 12px;
+    }
+    .banner-section .banner-content .reviews {
+        padding: 10px;
+    }
+    .banner-section .banner-content .reviews img {
+        width: 100px;
+    }
+    .banner-section .banner-content .banner-reivew {
+        gap: 15px;
+    }
+    .banner-section .banner-bottam-partner-logo-inner img {
+        margin: 0 10px;
+        width: 25%;
+    }
+    .banner-section .banner-content {
+        width: 50%;
+    }
+    .chhose-section .choose-main{
+        flex-direction: column;
+    }
+    .chhose-section .choose-content {
+        width: 100%;
+    }
+    .chhose-section .choose-img {
+        width: 100%;
+    }
+    .chhose-section .choose-main {
+        gap: 22px;
+    }
+    .service-section .card__bx {
+        width: 45%;
+    }
+    .testimonial-text {
+        width: 100%;
+        font-size: 14px;
+    }
+    .testimonial-text::after {
+        width: 54px;
+        height: 47px;
+        top: -50%;
+    }
+    .stars {
+        margin-bottom: 10px;
+    }
+    .author {
+        margin-top: 10px;
+    }
+    .testimonial-slider-main .slick-list {
+        padding-top: 20px;
+    }
+    .faq-section .faq-main {
+        max-width: 100%;
+    }
+    .footer-section .footer-main {
+        flex-direction: column;
+        row-gap: 0;
+    }
+    .footer-section .footer-right {
+        width: 100%;
+        text-align: left;
+    }
+    .footer-section .footer-left {
+        width: 100%;
+    }
+    .promotion-banner-section .service-inner-content-counter {
+        margin-bottom: 6.5px;
+    }
+    .promotion-banner-section .service-inner-content p:last-child {
+        font-size: 12px;
+    }
+    .project-slider-section .slick-slide.slick-snext {
+        transform: translate3d(55%, 0, 0px);
+    }
+    .project-slider-section .slick-slide.slick-sprev {
+        transform: translate3d(-55%, 0, 0px);
+    }
+    .project-slider-section .slick-slide.slick-current {
+        transform: translate3d(0, 0, 6px);
+    }
+    .announcement-bar.section-announcement-bar-block .announcement_bar_block_wapper {
+        font-size: 16px;
+    }
+    .announcement-bar {
+        padding: 0 3vw;
+    }
+    .web-design-section .service-main {
+        width: 50%;
+    }
+    .client-section .client-item {
+        width: calc(100% / 4.7);
+    }
+    .client-section .client-row{
+        gap: 20px;
+    }
+    .client-section .client-icon img {
+        width: 100px;
+        height: 100px;
+    }
+    .footer-section .footer-right .partner-logo {
+        justify-content: flex-start;
+    }
+    .li_price {
+        font-size: 30px;
+    }
+    span.stike-li.small-li {
+        font-size: 1rem;
+    }
+    .li_offertext {
+        font-size: 1rem;
+    }
+    .li_time.register-on {
+        font-size: 1rem;
+    }
+    .gmwqp_inquirybtn_loop .available_seat_message span {
+        margin-top: 5px;
+    }
+    .gmwqp_inquirybtn_loop .button--primary {
+        padding: 15px 80px;
+        font-size: 18px;
+    }
+    .bottam_cart_wapper_main_inner {
+        padding: 20px 20px;
+    }
+    .last_waspper {
+        padding: 60px;
+    }
+    .header-section {
+        margin-bottom: 40px;
+    }
+    .service-section .service-heading,
+    .project-slider-section .project-slider-heading,
+    .web-design-section .web-desing-heading,
+    .client-section .client-heading,
+    .industry-section .industry-heading,
+    .price-heading,
+    .build-section .build-heading,
+    .white-lable-section .white-lable-heading,
+    .faq-section .faq-heading,
+    .about-section .about-heading{
+        margin-bottom: 20px;
+    }
+    .header-section{
+        margin-bottom: 40px;
+    }
+    .common-spacing{
+        margin-bottom: 40px;
+    }
+    .black_BG{
+        padding: 40px 0;
+    }
+    .about-section .about-main-inner .about-main-text{
+        padding: 40px 0;
+    }
+}
+@media screen and (max-width: 991px) {
+    .header-section .email a, .header-section .number a {
+        font-size: 16px;
+    }
+    .promotion-banner-section .promotion-banner-inner {
+        flex-direction: column;
+    }
+    .promotion-banner-section .promotion-banner-img {
+        width: 100%;
+    }
+    .promotion-banner-section .promotion-banner-content {
+        width: 100%;
+    }
+    .iso-section .iso-banner-inner {
+        flex-direction: column;
+    }
+    .iso-section .iso-banner-img {
+        width: 100%;
+    }
+    .iso-section .iso-banner-content {
+        width: 100%;
+    }
+    .web-design-section .service p {
+        font-size: 14px;
+    }
+    .web-design-section .service h3 {
+        font-size: 18px;
+    }
+    .web-design-section .service svg {
+        height: 120px;
+        width: 120px;
+    }
+    .industry-section .industry-block {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+    .build-section .build-block p {
+        font-size: 16px;
+    }
+    .build-section .build-block h3 {
+        font-size: 27px;
+    }
+
+    .form {
+        grid-template-columns: 1fr;
+      }
+    
+      .contact-info:before {
+        bottom: initial;
+        top: -75px;
+        right: 65px;
+        transform: scale(0.95);
+      }
+    
+      .contact-form:before {
+        top: -13px;
+        left: initial;
+        right: 70px;
+      }
+    
+      .square {
+        transform: translate(140%, 43%);
+        height: 350px;
+      }
+    
+      .big-circle {
+        bottom: 75%;
+        transform: scale(0.9) translate(-40%, 30%);
+        right: 50%;
+      }
+    
+      .text {
+        margin: 1rem 0 1.5rem 0;
+      }
+    
+      .social-media {
+        padding: 1.5rem 0 0 0;
+      }
+}
+@media screen and (max-width: 819px) {
+    .header-section .number a, .header-section .email a {
+        font-size: 0;
+    }
+    .icon svg {
+        height: 28px;
+        width: 28px;
+    }
+    .build-section .build-block {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    
+}
+@media screen and (max-width: 767px) {
+    .industry-section .industry-block {
+        padding: 40px 20px;
+    }
+    .white-lable-section ul li {
+        flex: 0 0 100%;
+        max-width: 100%;
+        padding: 0;
+    }
+    .white-lable-section ul {
+        row-gap: 20px;
+    }
+    .banner-section .banner-inner{
+        flex-direction: column-reverse;
+        row-gap: 30px;
+    }
+    .banner-section .banner-content {
+        width: 100%;
+    }
+    .banner-section .banner-video {
+        width: 100%;
+    }
+    .chhose-section .choose-list {
+        row-gap: 16px;
+    }
+    .banner-section .banner-content .banner-heading {
+        font-size: 35px;
+    }
+    .banner-section .banner-content .banner-sub-heading {
+        font-size: 20px;
+    }
+    .service-section .card__bx .card__data .card__icon svg {
+        height: 50px;
+        width: 50px;
+    }
+    .service-section .card__bx .card__data .card__icon {
+        height: 60px;
+        width: 60px;
+    }
+    .service-section .card__bx {
+        width: 100%;
+    }
+    .testimonial-inner{
+        flex-direction: column;
+        align-items: center;
+    }
+    .text-section{
+        width: 100%;
+    }
+    .image-section{
+        width: 100%;
+    }
+    .iso-section ul.about-list li p {
+        font-size: 12px;
+    }
+    .promotion-banner-section ul.about-list li p {
+        font-size: 12px;
+    }
+    .project-slider-section .slick-arrow {
+        height: 50px;
+        width: 30px;
+    }
+    .web-design-section .slick-arrow {
+        height: 50px;
+        width: 30px;
+    }
+    .about-section .about-main-image .about-image-inner .about-image-row {
+        flex-wrap: wrap;
+    }
+    .about-section .about-image-row .row-one-img {
+        width: 100%;
+    }
+    .about-section .row-one-img.about-third-img.about-slider.slick-initialized.slick-slider {
+        padding: 36px 0;
+    }
+    .about-section .about-image-row-two.about-image-row {
+        flex-direction: column-reverse;
+    }
+    .price-box .price-type {
+        padding-bottom: 20px;
+    }
+    .price-box-main {
+        width: 100%;
+    }
+    .price-section-inner{
+        flex-wrap: wrap;
+    }
+    .price-section-inner {
+        gap: 20px;
+    }
+    .promotion-banner-section .service-content-item {
+        font-size: 14px;
+        margin-bottom: 24px;
+    }
+    .promotion-banner-section .service-inner-point-item{
+        justify-content: flex-start;
+    }
+    .promotion-banner-section .service-inner-content {
+    margin-left: 12px;
+    }
+    .promotion-banner-section .service-content-item.service-content-bottom {
+        margin-bottom: 28px;
+    }
+    .promotion-banner-section .service-content-item {
+        margin-bottom: 26px;
+        font-size: 16px;
+    }
+    .promotion-banner-section .service-inner-point {
+        flex-wrap: wrap;
+        row-gap: 33px;
+    }
+    .promotion-banner-section .service-inner-point-item {
+        width: 100%;
+    }
+    .client-section .client-item {
+        width: calc(100% / 3);
+    }
+    .web-design-section .service-main {
+        width: 100%;
+    }
+    .project-slider-section .slick-slide.slick-snext {
+        transform: translate3d(27%, 0, 0px);
+    }
+    .project-slider-section .slick-slide.slick-sprev {
+        transform: translate3d(-27%, 0, 0px);
+    }
+    .gmwqp_inquirybtn_loop .button--primary {
+        padding: 15px 60px;
+        font-size: 18px;
+    }
+    .footer-section .footer-right .partner-logo {
+        gap: 5px;
+    }
+    .footer-section .footer-right .logo {
+        width: 30%;
+    }
+}
+@media screen and (max-width: 574px) {
+    .promotion-banner-section .promotion-banner-content p {
+        font-size: 16px;
+    }
+    .promotion-banner-section .promotion-banner-content h2 {
+        font-size: 34px;
+    }
+    .iso-section .iso-banner-content p {
+        font-size: 16px;
+    }
+    .iso-section .iso-banner-content h2 {
+        font-size: 34px;
+    }
+    .sub-heading {
+        font-size: 16px;
+    }
+    .heading {
+        font-size: 32px;
+    }
+    .industry-section .industry-block {
+        flex: 0 0 50%;
+        max-width: 50%;
+    }
+    .chhose-section .list{
+        width: 100%;
+    }
+    .testimonial-text::after {
+        top: -30%;
+    }
+    .iso-section ul.about-list li p {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+    .promotion-banner-section ul.about-list li p {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+    .faq-section .faq-content p {
+        font-size: 12px;
+    }
+    .faq-section .faq-header p {
+        font-size: 14px;
+    }
+    .faq-section .faq-header {
+        padding: 6px;
+    }
+    .faq-section .faq-content {
+        padding: 6px;
+    }
+    .about-main-inner .about-main-text {
+        padding: 30px 0px;
+    }
+    .footer-section .footer-form .form{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .footer-section .footer-form .form .row {
+        width: 100%;
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+    .footer-section .footer-form {
+        padding: 15px;
+    }
+
+    .contact-info:before {
+        display: none;
+      }
+    
+      .square,
+      .big-circle {
+        display: none;
+      }
+    
+      form,
+      .contact-info {
+        padding: 1.7rem 1.6rem;
+      }
+    
+      .text,
+      .information,
+      .social-media p {
+        font-size: 0.8rem;
+      }
+    
+      .title {
+        font-size: 1.15rem;
+      }
+    
+      .social-icons a {
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+      }
+    
+      .icon {
+        width: 23px;
+      }
+    
+      .input {
+        padding: 0.45rem 1.2rem;
+      }
+      .select {
+        padding: 0.45rem 1.2rem;
+      }
+    
+      .btn {
+        padding: 0.45rem 1.2rem;
+      }
+      .information i {
+        width: 18px;
+      }
+      .information .icon svg {
+        height: 18px;
+        width: 18px;
+    }
+    .bottam_cart_wapper_flex_left{
+        display: none;
+    }
+    .bottam_cart_wapper_flex_right{
+        width: 100%;
+    }
+    .bottam_cart_wapper_flex .bottam_cart_wapper_flex_right .enquiry_button_main {
+        display: block;
+    }
+    .gmwqp_inquirybtn_loop .button--primary {
+        padding: 15px 100px;
+    }
+    .client-section .client-item {
+        width: calc(100% / 2.2);
+    }
+    .project-slider-section .slick-slide.slick-current{
+        transform: translate3d(0 , 0 , 0);
+    }
+}
+@media screen and (max-width: 424px) {
+    .banner-section .banner-bottam-partner-logo-inner img {
+        margin: 0 10px;
+        width: 44%;
+    }
+    .heading {
+        font-size: 27px;
+    }
+}
+@media screen and (max-width: 374px) {}

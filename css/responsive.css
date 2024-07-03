@@ -121,7 +121,10 @@
     .back-to-top {
         bottom: 140px;
     }
-}
+    .about-section .row-one-img img {
+        aspect-ratio: 1;
+    }
+}    
 @media screen and (max-width: 1439px) {
     .build-section .build-block p {
         font-size: 17px;
